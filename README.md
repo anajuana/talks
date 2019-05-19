@@ -102,3 +102,12 @@ Speaker: Antje Barth (MapR), Marc Huijbregts (MapR)
 This session will talk about digitization and IoT driven data growth, and its challenges, give an introduction into Big Data technologies, like Hadoop and Spark, outline an architecture to integrate IoT data into a SAP HANA/Hadoop framework for business process integration.
 
 Speaker: Antje Barth (Cisco)
+
+
+## Webinars ##
+
+* **Unlock your AI powers with Cisco & MapR** / Cisco & MapR, 2019-- January
+* **Container and Kubernetes without limites** / Greymatter & MapR, 2018-- October
+* **The Data Fabric. Unification for a multi-cloud world.** / Greymatter & MapR, 2018-- September
+* **Sind Ihre Daten fit fuer die DSGVO** / MapR & Talend, 2018-- May
+* **Scale Real-time Big Data Projects Faster with Spark & MapR** / Talend & MapR, 2017-- November
