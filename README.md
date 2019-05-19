@@ -78,7 +78,7 @@ In this talk, you will learn how a modern data platform can help to support stat
 Speaker: Antje Barth (MapR)
 
 
-## [IDA Copenhagen](https://english.ida.dk/) (The Danish Engineering Society): ##
+## [IDA Copenhagen](https://english.ida.dk/) (The Danish Engineering Society) ##
 
 ### Containers and Kubernetes without limits ###
 
@@ -90,3 +90,15 @@ In this talk, you will learn how to build a reliable, scalable, and secure conta
 data centers or geographic locations.
 
 Speaker: Antje Barth (MapR), Marc Huijbregts (MapR)
+
+## 2016 ##
+
+## [Cisco Live EMEA](https://www.ciscolive.com/) ##
+
+### IoT, Hadoop and SAP HANA on UCS ### 
+
+2016-- February 17, Berlin, Germany
+
+This session will talk about digitization and IoT driven data growth, and its challenges, give an introduction into Big Data technologies, like Hadoop and Spark, outline an architecture to integrate IoT data into a SAP HANA/Hadoop framework for business process integration.
+
+Speaker: Antje Barth (Cisco)
