@@ -62,7 +62,7 @@ In this talk, you will learn how a modern data platform can help to support stat
 
 ### Containers and Kubernetes without limits ###
 
-2018-- September 18th at 16:00-18:00, Copenhagen, Denmark
+2018-- September 18, Copenhagen, Denmark
 
 Or how to make stateless containers reliable and available for stateful applications.
 
