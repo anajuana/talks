@@ -1,5 +1,10 @@
 ## Upcoming Talks ##
 
+## 2020 ##
+
+
+## 2019 ##
+
 ## [O'Reilly AI Conference, London](https://conferences.oreilly.com/artificial-intelligence/ai-eu)
 
 ### Containerized Architectures for Deep Learning ###
@@ -10,8 +15,6 @@ Container and cloud-native technologies around Kubernetes have become the de-fac
 
 Speaker: Antje Barth
 
-
-## 2019 ##
 
 ## [Advanced Spark and TensorFlow Meetup](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/) @ O'Reilly AI Conference NYC
 
